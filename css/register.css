@@ -1,0 +1,11 @@
+h1,h2 {
+    text-align: center; color: firebrick; font-size: 250%
+}
+
+body {
+    background-color:#ccccbb;
+}
+
+p {
+    font-size: 150%; color: blueviolet;
+}
