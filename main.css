@@ -1,5 +1,5 @@
 h1,h2 {
-    text-align: center; color: firebrick;
+    text-align: center; color: firebrick; font-size: 300%
 }
 
 body {
@@ -7,5 +7,5 @@ body {
 }
 
 p {
-    font: 100; color: blue;
+    font-size: 200%; color: blue;
 }
