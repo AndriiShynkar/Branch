@@ -1,7 +1,11 @@
 h1,h2 {
-    text-align: center;
+    text-align: center; color: firebrick;
 }
 
 body {
     background-color: #cccccc;
+}
+
+p {
+    font: 100; color: blue;
 }
